@@ -3,8 +3,8 @@ body{
   height: 100%;
   background-color: yellow;
 }
-.test{
+h1{
   color: red;
   font-family: sans-serif, Impact;
-  
+  border-color: yellow;
 }
